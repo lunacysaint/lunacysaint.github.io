@@ -10,3 +10,4 @@ fields:
   description: Post
 pages:
 - post/test.md
+- post/test.md-copy.md
