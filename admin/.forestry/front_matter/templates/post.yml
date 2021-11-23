@@ -1,4 +1,10 @@
 ---
 label: Post
 hide_body: true
-fields: []
+fields:
+- name: post
+  type: text
+  config:
+    required: false
+  label: Post
+  description: Post
