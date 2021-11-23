@@ -8,3 +8,5 @@ fields:
     required: false
   label: Post
   description: Post
+pages:
+- post/test.md
