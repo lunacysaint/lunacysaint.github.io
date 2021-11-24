@@ -128,14 +128,6 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
-      <title>My Personal Academic Plan</title>
-      <link>https://lunacysaint.github.io/post/my-article-name/</link>
-      <pubDate>Wed, 24 Nov 2021 09:23:24 +0800</pubDate>
-      <guid>https://lunacysaint.github.io/post/my-article-name/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Exercise and Health Sciences Journal Clubs</title>
       <link>https://lunacysaint.github.io/project/external-project/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
@@ -308,7 +300,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-139482576&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-954716283&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -318,7 +310,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-139482576&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-954716283&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
