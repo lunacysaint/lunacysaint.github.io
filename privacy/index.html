@@ -4,6 +4,8 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  
+
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   
   
@@ -53,7 +55,7 @@
   
   
 
-  <meta name="author" content="Alice Bighetti (吳恩達)" />
+  <meta name="author" content="Ying-Chu Chen (陳映竹)" />
 
   
   
@@ -254,7 +256,54 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-175433973-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-175433973-2', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
   
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','UA-175433973-2');
+</script>
+
 
   
 
@@ -301,9 +350,9 @@
     <meta property="twitter:site" content="@http://twitter.com/coachstevetw" />
     <meta property="twitter:creator" content="@http://twitter.com/coachstevetw" />
   
-  <meta property="og:site_name" content="Academic" />
+  <meta property="og:site_name" content="Ying-Chu Chen" />
   <meta property="og:url" content="https://lunacysaint.github.io/privacy/" />
-  <meta property="og:title" content="Privacy Policy | Academic" />
+  <meta property="og:title" content="Privacy Policy | Ying-Chu Chen" />
   <meta property="og:description" content="&hellip;" /><meta property="og:image" content="https://lunacysaint.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://lunacysaint.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
@@ -330,9 +379,14 @@
 
 
 
-  <title>Privacy Policy | Academic</title>
+  <title>Privacy Policy | Ying-Chu Chen</title>
 </head>
 
+
+<head>
+  
+  ...
+ </head>
 
 <body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="18d05a63a1c8d7ed973cc51838494e41" >
 
@@ -408,7 +462,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Academic</a>
+      <a class="navbar-brand" href="/">Ying-Chu Chen</a>
     </div>
     
 
@@ -421,7 +475,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Academic</a>
+      <a class="navbar-brand" href="/">Ying-Chu Chen</a>
     </div>
     
 
@@ -464,7 +518,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#about"><span>Demo</span></a>
+          <a class="nav-link " href="/#about"><span>About</span></a>
         </li>
 
         
@@ -501,7 +555,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+          <a class="nav-link " href="/#post"><span>Posts</span></a>
         </li>
 
         
@@ -575,74 +629,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#talks"><span>Talks</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
-
-        <li class="nav-item">
           <a class="nav-link " href="/#featured"><span>Publications</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/courses/"><span>Courses</span></a>
         </li>
 
         
@@ -698,7 +685,7 @@
         
           
           <li class="nav-item d-none d-lg-inline-flex">
-            <a class="nav-link" href="https://twitter.com/GeorgeCushen" data-toggle="tooltip" data-placement="bottom" title="Follow me on Twitter" target="_blank" rel="noopener" aria-label="Follow me on Twitter">
+            <a class="nav-link" href="https://twitter.com/coachstevetw" data-toggle="tooltip" data-placement="bottom" title="Follow me on Twitter" target="_blank" rel="noopener" aria-label="Follow me on Twitter">
               <i class="fab fa-twitter" aria-hidden="true"></i>
             </a>
           </li>
