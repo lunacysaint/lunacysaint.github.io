@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Ying-Chu Chen</title>
-    <link>https://lunacysaint.github.io/post/</link>
-      <atom:link href="https://lunacysaint.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
+    <title>Experiment | Ying-Chu Chen</title>
+    <link>https://lunacysaint.github.io/tag/experiment/</link>
+      <atom:link href="https://lunacysaint.github.io/tag/experiment/index.xml" rel="self" type="application/rss+xml" />
+    <description>Experiment</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021~2022} Ying-Chu Chen</copyright><lastBuildDate>Wed, 01 Dec 2021 18:11:20 +0800</lastBuildDate>
     <image>
       <url>https://lunacysaint.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
-      <title>Posts</title>
-      <link>https://lunacysaint.github.io/post/</link>
+      <title>Experiment</title>
+      <link>https://lunacysaint.github.io/tag/experiment/</link>
     </image>
     
     <item>
@@ -18,17 +18,6 @@
       <pubDate>Wed, 01 Dec 2021 18:11:20 +0800</pubDate>
       <guid>https://lunacysaint.github.io/post/2021_12_01/</guid>
       <description>&lt;p&gt;Professor Liao always reminds us that: “Something very small or minor can be indicative of something much more important.” In other words, an experiment is not just an experiment, it’s about how well  you organize and prepare for the oncoming difficulty and possible defeat. Life isn’t all sunshine and rainbows, how much we can take the challenge and keep moving forward would be the key!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Academic Plan in Doctoral Degree</title>
-      <link>https://lunacysaint.github.io/post/academic_plan/</link>
-      <pubDate>Fri, 26 Nov 2021 12:05:52 +0800</pubDate>
-      <guid>https://lunacysaint.github.io/post/academic_plan/</guid>
-      <description>&lt;p&gt;To be updated, my future academic plan in doctoral degree will be described in this post. I will explain my futrue career as the following aspects:
-1. Academic Performance
-2. Fitness Industry Performance&lt;/p&gt;
 </description>
     </item>
     
