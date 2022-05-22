@@ -5,7 +5,7 @@
     <link>https://lunacysaint.github.io/</link>
       <atom:link href="https://lunacysaint.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Ying-Chu Chen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021~2025} Ying-Chu Chen</copyright><lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021~2025} Ying-Chu Chen</copyright><lastBuildDate>Fri, 20 May 2022 10:05:00 +0000</lastBuildDate>
     <image>
       <url>https://lunacysaint.github.io/media/icon_hu77656df9358f1698014a904f198c1873_40883_512x512_fill_lanczos_center_3.png</url>
       <title>Ying-Chu Chen</title>
@@ -105,6 +105,14 @@ The variance of the distribution is $\sigma^{2}$.
   &lt;summary&gt;What is the parameter $\mu$?&lt;/summary&gt;
   &lt;p&gt;The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p&gt;
 &lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>Physical Activity, Exercise, and Health Promotion</title>
+      <link>https://lunacysaint.github.io/talk/physical-activity-exercise-and-health-promotion/</link>
+      <pubDate>Fri, 20 May 2022 10:05:00 +0000</pubDate>
+      <guid>https://lunacysaint.github.io/talk/physical-activity-exercise-and-health-promotion/</guid>
+      <description></description>
     </item>
     
     <item>
