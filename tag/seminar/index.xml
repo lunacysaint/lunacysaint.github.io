@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seminar | Ying-Chu Chen</title>
+    <link>https://lunacysaint.github.io/tag/seminar/</link>
+      <atom:link href="https://lunacysaint.github.io/tag/seminar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Seminar</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021~2026} Ying-Chu Chen</copyright><lastBuildDate>Thu, 19 Oct 2023 19:35:00 +0800</lastBuildDate>
+    <image>
+      <url>https://lunacysaint.github.io/media/icon_hu77656df9358f1698014a904f198c1873_40883_512x512_fill_lanczos_center_3.png</url>
+      <title>Seminar</title>
+      <link>https://lunacysaint.github.io/tag/seminar/</link>
+    </image>
+    
+    <item>
+      <title>NTNU Department of Physcial education and Sport Science Seminar</title>
+      <link>https://lunacysaint.github.io/post/2023_10_19_ntnu_seminar_presentation/</link>
+      <pubDate>Thu, 19 Oct 2023 19:35:00 +0800</pubDate>
+      <guid>https://lunacysaint.github.io/post/2023_10_19_ntnu_seminar_presentation/</guid>
+      <description>&lt;p&gt;In this seminar, Ying-Chu Chen shared the recent research work of effects of acute blood flow restriction exercise on cognitive function. He investigated the current research of blood flow restriction on cognitive function.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
