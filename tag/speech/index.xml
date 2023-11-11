@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>speech | Ying-Chu Chen</title>
+    <link>https://lunacysaint.github.io/tag/speech/</link>
+      <atom:link href="https://lunacysaint.github.io/tag/speech/index.xml" rel="self" type="application/rss+xml" />
+    <description>speech</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021~2026} Ying-Chu Chen</copyright><lastBuildDate>Fri, 10 Nov 2023 19:00:00 +2000</lastBuildDate>
+    <image>
+      <url>https://lunacysaint.github.io/media/icon_hu77656df9358f1698014a904f198c1873_40883_512x512_fill_lanczos_center_3.png</url>
+      <title>speech</title>
+      <link>https://lunacysaint.github.io/tag/speech/</link>
+    </image>
+    
+    <item>
+      <title>惠瑜慈善基金會演講</title>
+      <link>https://lunacysaint.github.io/post/2023_11_10_michaelchou_fundspeech/</link>
+      <pubDate>Fri, 10 Nov 2023 19:00:00 +2000</pubDate>
+      <guid>https://lunacysaint.github.io/post/2023_11_10_michaelchou_fundspeech/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

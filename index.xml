@@ -5,7 +5,7 @@
     <link>https://lunacysaint.github.io/</link>
       <atom:link href="https://lunacysaint.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Ying-Chu Chen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021~2026} Ying-Chu Chen</copyright><lastBuildDate>Thu, 19 Oct 2023 19:35:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021~2026} Ying-Chu Chen</copyright><lastBuildDate>Fri, 10 Nov 2023 19:00:00 +2000</lastBuildDate>
     <image>
       <url>https://lunacysaint.github.io/media/icon_hu77656df9358f1698014a904f198c1873_40883_512x512_fill_lanczos_center_3.png</url>
       <title>Ying-Chu Chen</title>
@@ -108,6 +108,22 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>惠瑜慈善基金會演講</title>
+      <link>https://lunacysaint.github.io/post/2023_11_10_michaelchou_fundspeech/</link>
+      <pubDate>Fri, 10 Nov 2023 19:00:00 +2000</pubDate>
+      <guid>https://lunacysaint.github.io/post/2023_11_10_michaelchou_fundspeech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>恭喜陳映竹榮獲112學年度呂聯宗呂王敏華夫婦獎助學基金以及優秀研究生獎學金！</title>
+      <link>https://lunacysaint.github.io/post/2023_10_30_award/</link>
+      <pubDate>Mon, 30 Oct 2023 09:00:00 +0800</pubDate>
+      <guid>https://lunacysaint.github.io/post/2023_10_30_award/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Effects of acute blood flow restriction exercise on cognitive function:a review</title>
       <link>https://lunacysaint.github.io/talk/effects-of-acute-blood-flow-restriction-exercise-on-cognitive-functiona-review/</link>
       <pubDate>Thu, 19 Oct 2023 19:35:00 +0000</pubDate>
@@ -126,9 +142,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title></title>
-      <link>https://lunacysaint.github.io/post/2023_template/</link>
+      <link>https://lunacysaint.github.io/2023_template-copy-2/</link>
       <pubDate>Mon, 21 Aug 2023 09:00:00 +0800</pubDate>
-      <guid>https://lunacysaint.github.io/post/2023_template/</guid>
+      <guid>https://lunacysaint.github.io/2023_template-copy-2/</guid>
       <description></description>
     </item>
     

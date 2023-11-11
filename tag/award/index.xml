@@ -5,7 +5,7 @@
     <link>https://lunacysaint.github.io/tag/award/</link>
       <atom:link href="https://lunacysaint.github.io/tag/award/index.xml" rel="self" type="application/rss+xml" />
     <description>Award</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021~2026} Ying-Chu Chen</copyright><lastBuildDate>Mon, 21 Aug 2023 09:00:00 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021~2026} Ying-Chu Chen</copyright><lastBuildDate>Mon, 30 Oct 2023 09:00:00 +0800</lastBuildDate>
     <image>
       <url>https://lunacysaint.github.io/media/icon_hu77656df9358f1698014a904f198c1873_40883_512x512_fill_lanczos_center_3.png</url>
       <title>Award</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>恭喜陳映竹榮獲112學年度呂聯宗呂王敏華夫婦獎助學基金以及優秀研究生獎學金！</title>
+      <link>https://lunacysaint.github.io/post/2023_10_30_award/</link>
+      <pubDate>Mon, 30 Oct 2023 09:00:00 +0800</pubDate>
+      <guid>https://lunacysaint.github.io/post/2023_10_30_award/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
-      <link>https://lunacysaint.github.io/post/2023_template/</link>
+      <link>https://lunacysaint.github.io/2023_template-copy-2/</link>
       <pubDate>Mon, 21 Aug 2023 09:00:00 +0800</pubDate>
-      <guid>https://lunacysaint.github.io/post/2023_template/</guid>
+      <guid>https://lunacysaint.github.io/2023_template-copy-2/</guid>
       <description></description>
     </item>
     
