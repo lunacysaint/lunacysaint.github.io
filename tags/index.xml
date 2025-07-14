@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Ying-Chu Chen&#39;s CV website</title>
-    <link>https://yingchuchentw.github.io/tags/</link>
-      <atom:link href="https://yingchuchentw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lunacysaint.github.io/tags/</link>
+      <atom:link href="https://lunacysaint.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yingchuchentw.github.io/media/icon_hu15511076651403545720.png</url>
+      <url>https://lunacysaint.github.io/media/icon_hu15511076651403545720.png</url>
       <title>Tags</title>
-      <link>https://yingchuchentw.github.io/tags/</link>
+      <link>https://lunacysaint.github.io/tags/</link>
     </image>
     
   </channel>
