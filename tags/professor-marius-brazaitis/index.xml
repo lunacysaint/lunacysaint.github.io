@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Professor Marius Brazaitis | Ying-Chu Chen&#39;s CV website</title>
+    <link>https://lunacysaint.github.io/tags/professor-marius-brazaitis/</link>
+      <atom:link href="https://lunacysaint.github.io/tags/professor-marius-brazaitis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Professor Marius Brazaitis</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Apr 2025 10:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lunacysaint.github.io/media/icon_hu15511076651403545720.png</url>
+      <title>Professor Marius Brazaitis</title>
+      <link>https://lunacysaint.github.io/tags/professor-marius-brazaitis/</link>
+    </image>
+    
+    <item>
+      <title>Attending Professor Marius Brazaitis’ lecture on “The Benefits of Various Types of Stress for Physical and Mental Well-being”</title>
+      <link>https://lunacysaint.github.io/event/2025_04_15/</link>
+      <pubDate>Mon, 21 Apr 2025 10:00:00 +0000</pubDate>
+      <guid>https://lunacysaint.github.io/event/2025_04_15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

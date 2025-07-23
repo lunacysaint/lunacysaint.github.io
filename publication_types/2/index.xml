@@ -2,45 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Ying-Chu Chen&#39;s CV website</title>
-    <link>https://lunacysaint.github.io/publication_types/2/</link>
-      <atom:link href="https://lunacysaint.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication_types/2/</link>
+      <atom:link href="http://localhost:1313/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lunacysaint.github.io/media/icon_hu15511076651403545720.png</url>
+      <url>http://localhost:1313/media/icon_hu15511076651403545720.png</url>
       <title>2</title>
-      <link>https://lunacysaint.github.io/publication_types/2/</link>
+      <link>http://localhost:1313/publication_types/2/</link>
     </image>
     
     <item>
       <title>Acute effects of two different combined exercise modalities on executive function and circulating neurotrophic factors in young healthy adults</title>
-      <link>https://lunacysaint.github.io/publication/journal-paper/07_co_author/</link>
+      <link>http://localhost:1313/publication/journal-paper/07_co_author/</link>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://lunacysaint.github.io/publication/journal-paper/07_co_author/</guid>
+      <guid>http://localhost:1313/publication/journal-paper/07_co_author/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Acute effects of resistance exercise intensity and repetition at a predetermined volume on inhibitory control:a randomized controlled trial</title>
-      <link>https://lunacysaint.github.io/publication/journal-paper/02_first-author/</link>
+      <link>http://localhost:1313/publication/journal-paper/02_first-author/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://lunacysaint.github.io/publication/journal-paper/02_first-author/</guid>
+      <guid>http://localhost:1313/publication/journal-paper/02_first-author/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cardiorespiratory fitness, independent of APOE genotype, is associated with better neurocognitive function in older adults:An ERP study</title>
-      <link>https://lunacysaint.github.io/publication/journal-paper/05_co_author/</link>
+      <link>http://localhost:1313/publication/journal-paper/05_co_author/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://lunacysaint.github.io/publication/journal-paper/05_co_author/</guid>
+      <guid>http://localhost:1313/publication/journal-paper/05_co_author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acute effects of high-intensity interval exercise on food-related cognition in young adults with obesity: An ERP study</title>
+      <link>http://localhost:1313/publication/journal-paper/04_co_author/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-paper/04_co_author/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Acute effect of combined exercise with aerobic and resistance exercises on executive function</title>
-      <link>https://lunacysaint.github.io/publication/journal-paper/01_first-author/</link>
+      <link>http://localhost:1313/publication/journal-paper/01_first-author/</link>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://lunacysaint.github.io/publication/journal-paper/01_first-author/</guid>
+      <guid>http://localhost:1313/publication/journal-paper/01_first-author/</guid>
       <description></description>
     </item>
     
