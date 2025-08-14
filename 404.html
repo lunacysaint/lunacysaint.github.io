@@ -1,6 +1,6 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: August 1, 2025 --><html lang="en-us" dir="ltr"
+<!-- Last Published: August 14, 2025 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="dark">
   
 <head>
@@ -130,6 +130,45 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XFN2HN8DTW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-XFN2HN8DTW', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
 
 
 
@@ -229,6 +268,7 @@
   
 
 
+  
   
   
   
@@ -968,13 +1008,13 @@
       
       <li><a href="/teaching/">Teaching</a></li>
       
+      <li><a href="/teaching/statistics/">Knowledge monetization</a></li>
+      
       <li><a href="/teaching/knowledge/">Knowledge monetization</a></li>
       
       <li><a href="/publication/">Publications</a></li>
       
       <li><a href="/publication/journal-paper/07_co_author/">Acute effects of two different combined exercise modalities on executive function and circulating neurotrophic factors in young healthy adults</a></li>
-      
-      <li><a href="/post/2025_06_09_emi_ta_presentation_award/">National Taiwan Normal University English as Medium for Instruction Teaching Assistant Talent and Leadership course presentation competition top 3rd place</a></li>
       
     </ul>
     
