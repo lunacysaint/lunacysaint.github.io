@@ -5,12 +5,57 @@
     <link>https://lunacysaint.github.io/teaching/</link>
       <atom:link href="https://lunacysaint.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lunacysaint.github.io/media/icon_hu15511076651403545720.png</url>
       <title>Teaching</title>
       <link>https://lunacysaint.github.io/teaching/</link>
     </image>
+    
+    <item>
+      <title>EMI Teaching Course Demonstration</title>
+      <link>https://lunacysaint.github.io/teaching/emi/</link>
+      <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://lunacysaint.github.io/teaching/emi/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://yingchuchentw.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Steve Ying-Chu Chen&lt;/a&gt; is designed to facilitate a supportive EMI learning environment. You will receive insights into how I structure academic literacy within the field of Sport Sciences.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Clear Objectives, Scaffolded Learning, Active Participation!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On this page, you&amp;rsquo;ll find the EMI course demonstration of how I utilize digital resources to teach core concepts like &lt;strong&gt;Experimental Research Design&lt;/strong&gt; and the distinction between &lt;strong&gt;Acute exercise and Cognitive Function&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;physical-activity-and-cognitive-function&#34;&gt;Physical Activity and Cognitive Function&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Visual Scaffolding for Complex Concepts&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In my EMI course demonstration, &lt;em&gt;Physical Activity and Cognitive Function&lt;/em&gt;, I utilize visual aids to explain abstract methodological concepts. [cite_start]As demonstrated in my teaching presentation, visualizing the relationship between the &lt;strong&gt;Independent Variable (Cause)&lt;/strong&gt; and the &lt;strong&gt;Dependent Variable (Effect)&lt;/strong&gt; is crucial for student understanding.&lt;/p&gt;
+&lt;p&gt;This video serves as a flipped-classroom resource to help students visualize how we manipulate variables—such as comparing &lt;strong&gt;High-Intensity Interval Training (HIIT)&lt;/strong&gt; vs. &lt;strong&gt;Moderate Continuous Training&lt;/strong&gt;—to measure outcomes like short-term memory.&lt;/p&gt;
+&lt;p&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/X1pHnvnacZA?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;a href=&#34;https://www.youtube.com/watch?v=X1pHnvnacZA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Youtube&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; youtube X1pHnvnacZA &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Clear Objectives, Scaffolded Learning, Active Participation!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On this page, you&amp;rsquo;ll find examples of how I utilize digital resources to teach core concepts like &lt;strong&gt;Statistical Analysis&lt;/strong&gt; and &lt;strong&gt;Experimental Design&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;linear-regression-course-guided-reading-emi-course-demonstration&#34;&gt;Linear Regression Course Guided Reading EMI course Demonstration&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Simplifying Abstract Concepts with Analogies&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Teaching statistics in an EMI setting can be challenging due to the complex terminology. In this &amp;ldquo;Guided Reading&amp;rdquo; session, I demonstrate how to use a relatable &lt;strong&gt;Real-world Analogy&lt;/strong&gt;—the &amp;ldquo;Lunch Scenario&amp;rdquo;—to explain the concept of &lt;strong&gt;Ordinary Least Squares (OLS)&lt;/strong&gt; and its sensitivity to outliers.&lt;/p&gt;
+&lt;p&gt;By asking students to imagine 9 people buying a $10 lunch versus 1 person buying a $500 meal, I help them visualize how a single data point can distort the regression line. This &lt;strong&gt;Analogy-based Scaffolding&lt;/strong&gt; is a key strategy I use to make abstract mathematical models accessible to students.&lt;/p&gt;
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/OFHVSfIVx-0?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Youtube&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; youtube OFHVSfIVx-0 &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
     
     <item>
       <title>Knowledge monetization</title>
