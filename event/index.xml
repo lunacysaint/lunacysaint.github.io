@@ -5,12 +5,28 @@
     <link>https://lunacysaint.github.io/event/</link>
       <atom:link href="https://lunacysaint.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Dec 2025 09:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 Jan 2026 05:30:00 +0000</lastBuildDate>
     <image>
       <url>https://lunacysaint.github.io/media/icon_hu15511076651403545720.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://lunacysaint.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>Attending Professor Shih-Chun Kao’s lecture on “Brain and cognition in response to cognitively engaging exercise”</title>
+      <link>https://lunacysaint.github.io/event/2025_12_08_poster_kao-alvin-speech/</link>
+      <pubDate>Sat, 03 Jan 2026 05:30:00 +0000</pubDate>
+      <guid>https://lunacysaint.github.io/event/2025_12_08_poster_kao-alvin-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attending Professor Hideaki Soya’s lecture on “Hormetic Effects of Exercise on Cognition: A Translational Research”</title>
+      <link>https://lunacysaint.github.io/event/2025_12_24_dr.soya/</link>
+      <pubDate>Wed, 24 Dec 2025 11:30:00 +0000</pubDate>
+      <guid>https://lunacysaint.github.io/event/2025_12_24_dr.soya/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The 16th ISSP World Congress: Acute Resistance Exercise and Inhibitory Control</title>
@@ -30,6 +46,14 @@ In his oral presentation, &lt;strong&gt;&amp;ldquo;The Influence of Acute Resist
 &lt;/ul&gt;
 &lt;p&gt;This research contributes to the growing body of evidence in exercise cognition interaction, offering practical guidelines for exercise prescription aimed at brain health.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Attending Professor Yongchul Chung’s lecture on “Lessons Learned from 20&#43; Year Consulting Journey”</title>
+      <link>https://lunacysaint.github.io/event/2025_11_06_dr.yongchul_chung/</link>
+      <pubDate>Thu, 06 Nov 2025 18:30:00 +0000</pubDate>
+      <guid>https://lunacysaint.github.io/event/2025_11_06_dr.yongchul_chung/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -93,6 +117,14 @@ In his oral presentation, &lt;strong&gt;&amp;ldquo;The Influence of Acute Resist
       <link>https://lunacysaint.github.io/event/2025_04_15/</link>
       <pubDate>Mon, 21 Apr 2025 10:00:00 +0000</pubDate>
       <guid>https://lunacysaint.github.io/event/2025_04_15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attending Professor Marius Brazaitis’ lecture on “The Benefits of Various Types of Stress for Physical and Mental Well-being”</title>
+      <link>https://lunacysaint.github.io/event/2026_01_05_podcast_award/</link>
+      <pubDate>Mon, 21 Apr 2025 10:00:00 +0000</pubDate>
+      <guid>https://lunacysaint.github.io/event/2026_01_05_podcast_award/</guid>
       <description></description>
     </item>
     

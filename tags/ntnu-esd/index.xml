@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NTNU ESD | Ying-Chu Chen&#39;s CV website</title>
+    <link>https://lunacysaint.github.io/tags/ntnu-esd/</link>
+      <atom:link href="https://lunacysaint.github.io/tags/ntnu-esd/index.xml" rel="self" type="application/rss+xml" />
+    <description>NTNU ESD</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 Jan 2026 05:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lunacysaint.github.io/media/icon_hu15511076651403545720.png</url>
+      <title>NTNU ESD</title>
+      <link>https://lunacysaint.github.io/tags/ntnu-esd/</link>
+    </image>
+    
+    <item>
+      <title>Attending Professor Shih-Chun Kao’s lecture on “Brain and cognition in response to cognitively engaging exercise”</title>
+      <link>https://lunacysaint.github.io/event/2025_12_08_poster_kao-alvin-speech/</link>
+      <pubDate>Sat, 03 Jan 2026 05:30:00 +0000</pubDate>
+      <guid>https://lunacysaint.github.io/event/2025_12_08_poster_kao-alvin-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attending Professor Hideaki Soya’s lecture on “Hormetic Effects of Exercise on Cognition: A Translational Research”</title>
+      <link>https://lunacysaint.github.io/event/2025_12_24_dr.soya/</link>
+      <pubDate>Wed, 24 Dec 2025 11:30:00 +0000</pubDate>
+      <guid>https://lunacysaint.github.io/event/2025_12_24_dr.soya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attending Professor Yongchul Chung’s lecture on “Lessons Learned from 20&#43; Year Consulting Journey”</title>
+      <link>https://lunacysaint.github.io/event/2025_11_06_dr.yongchul_chung/</link>
+      <pubDate>Thu, 06 Nov 2025 18:30:00 +0000</pubDate>
+      <guid>https://lunacysaint.github.io/event/2025_11_06_dr.yongchul_chung/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
