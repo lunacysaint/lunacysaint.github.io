@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Experimental Research | Steve Ying-Chu Chen&#39;s CV website</title>
-    <link>https://lunacysaint.github.io/tags/experimental-research/</link>
-      <atom:link href="https://lunacysaint.github.io/tags/experimental-research/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/experimental-research/</link>
+      <atom:link href="http://localhost:1313/tags/experimental-research/index.xml" rel="self" type="application/rss+xml" />
     <description>Experimental Research</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lunacysaint.github.io/media/icon_hu15511076651403545720.png</url>
+      <url>http://localhost:1313/media/icon_hu15511076651403545720.png</url>
       <title>Experimental Research</title>
-      <link>https://lunacysaint.github.io/tags/experimental-research/</link>
+      <link>http://localhost:1313/tags/experimental-research/</link>
     </image>
     
     <item>
       <title>EMI Teaching Course Demonstration</title>
-      <link>https://lunacysaint.github.io/teaching/emi/</link>
+      <link>http://localhost:1313/teaching/emi/</link>
       <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://lunacysaint.github.io/teaching/emi/</guid>
+      <guid>http://localhost:1313/teaching/emi/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://yingchuchentw.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Steve Ying-Chu Chen&lt;/a&gt; is designed to facilitate a supportive EMI learning environment. You will receive insights into how I structure academic literacy within the field of Sport Sciences.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Clear Objectives, Scaffolded Learning, Active Participation!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find the EMI course demonstration of how I utilize digital resources to teach core concepts like &lt;strong&gt;Experimental Research Design&lt;/strong&gt; and the distinction between &lt;strong&gt;Acute exercise and Cognitive Function&lt;/strong&gt;.&lt;/p&gt;

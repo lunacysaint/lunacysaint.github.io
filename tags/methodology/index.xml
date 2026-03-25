@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Methodology | Steve Ying-Chu Chen&#39;s CV website</title>
+    <link>https://lunacysaint.github.io/tags/methodology/</link>
+      <atom:link href="https://lunacysaint.github.io/tags/methodology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Methodology</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Mar 2026 14:20:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lunacysaint.github.io/media/icon_hu15511076651403545720.png</url>
+      <title>Methodology</title>
+      <link>https://lunacysaint.github.io/tags/methodology/</link>
+    </image>
+    
+    <item>
+      <title>Invited talk: Deep Diving into PRISMA 2020 Guidelines</title>
+      <link>https://lunacysaint.github.io/event/2026_03_23_prisma2020/</link>
+      <pubDate>Mon, 23 Mar 2026 14:20:00 +0000</pubDate>
+      <guid>https://lunacysaint.github.io/event/2026_03_23_prisma2020/</guid>
+      <description>&lt;h2 id=&#34;presentation-highlights--報告精華&#34;&gt;Presentation Highlights / 報告精華&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Introduction &amp;amp; Rationale&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Transparency is the bedrock of scientific integrity. PRISMA 2020 provides an updated framework for reporting systematic reviews and meta-analyses, reflecting advances in methods to identify, select, appraise, and synthesize studies. This presentation aims to transform complex reporting standards into actionable insights, creating a &amp;ldquo;reject-proof firewall&amp;rdquo; for academic publishing.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Insights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Methodological Rigor&lt;/strong&gt;: The 2020 iteration demands higher execution standards, including the use of multi-track flow diagrams and the integration of automated screening tools.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bias Safeguarding&lt;/strong&gt;: Strictly following the checklist effectively mitigates risk of bias and enhances the reproducibility of evidence synthesis.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clinical Impact&lt;/strong&gt;: Beyond just &amp;ldquo;ticking boxes,&amp;rdquo; adherence to these guidelines elevates the overall quality and clinical relevance of exercise science research.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Practical Application&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Using PRISMA 2020 as a &amp;ldquo;playbook&amp;rdquo; ensures that researchers meet the highest standards of excellence, facilitating smoother peer review and increasing the likelihood of high-impact publication.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;研究動機與背景&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;「透明度」是科學學術誠信的基石。PRISMA 2020 是系統性回顧與統合分析報告的首選指南。本次報告旨在深入拆解更新後的規範，將複雜的報告標準轉化為具體的實踐洞見，為同儕建立一道提升研究品質的「拒稿防火牆」。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;核心發現&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;嚴謹的方法論&lt;/strong&gt;：2020 年版本要求更高水準的執行，包含解析新版流程圖、檢核表，以及如何有效整合自動化篩選工具。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;防範研究偏誤&lt;/strong&gt;：透過更嚴格的報告標準，能有效降低偏誤風險（risk of bias），並提升證據整合（Evidence Synthesis）的可重複性。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;學術誠信與影響力&lt;/strong&gt;：遵循 PRISMA 不僅是為了符合清單要求，更是為了確保研究具備卓越的標準，進而提升在運動科學領域的臨床影響力。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;實務建議&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;研究者應將 PRISMA 2020 視為學術「攻略手冊（Playbook）」，從研究設計階段即納入規範考量，以確保研究成果能以最高品質呈現，並在國際期刊中脫穎而出。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;報告資訊&#34;&gt;報告資訊&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Presenter / 報告人&lt;/strong&gt;: Ying-Chu Chen (陳映竹), Ph.D. Candidate&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Advisor / 指導教授&lt;/strong&gt;: Yu-Kai Chang (張育愷博士), Ph.D.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lab / 實驗室&lt;/strong&gt;: Physical Activity &amp;amp; Cognitive Neuroscience Lab (PACNL), NTNU&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
