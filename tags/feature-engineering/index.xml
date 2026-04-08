@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feature Engineering | Steve Ying-Chu Chen&#39;s CV website</title>
+    <link>https://lunacysaint.github.io/tags/feature-engineering/</link>
+      <atom:link href="https://lunacysaint.github.io/tags/feature-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Feature Engineering</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Apr 2026 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lunacysaint.github.io/media/icon_hu15511076651403545720.png</url>
+      <title>Feature Engineering</title>
+      <link>https://lunacysaint.github.io/tags/feature-engineering/</link>
+    </image>
+    
+    <item>
+      <title>Data-Driven Architecture: From Knowledge Graphs to AI-Empowered Decision Systems / 數據驅動架構：從知識圖譜到 AI 賦能決策系統</title>
+      <link>https://lunacysaint.github.io/event/2026_04_02_sheldon/</link>
+      <pubDate>Thu, 02 Apr 2026 13:00:00 +0000</pubDate>
+      <guid>https://lunacysaint.github.io/event/2026_04_02_sheldon/</guid>
+      <description>&lt;h3 id=&#34;數據決策的底層邏輯從圖譜構建到-ai-賦能&#34;&gt;數據決策的底層邏輯：從圖譜構建到 AI 賦能&lt;/h3&gt;
+&lt;h3 id=&#34;the-underlying-logic-of-data-driven-decisions-from-graph-architecture-to-ai-empowerment-by-sheldon-hsu&#34;&gt;The Underlying Logic of Data-Driven Decisions: From Graph Architecture to AI Empowerment (By Sheldon Hsu)&lt;/h3&gt;
+&lt;p&gt;作為一名 &lt;strong&gt;INTJ (建築師型)&lt;/strong&gt; 的技術開發者與視覺結構化學習者，我深信所有複雜的系統問題，最終都能被拆解為可計算的數學模型與邏輯關聯。以下是我運用數據科學框架解構問題的核心路徑：&lt;/p&gt;
+&lt;p&gt;As an &lt;strong&gt;INTJ (The Architect)&lt;/strong&gt; developer and visual-structural learner, I operate on the conviction that all complex systemic anomalies can ultimately be deconstructed into computable mathematical models and logical correlations. The following elucidates my core trajectory for dismantling multifaceted problems using advanced data science frameworks:&lt;/p&gt;
+&lt;h4 id=&#34;一-or-knowledge-graph重塑特徵與結果的關聯&#34;&gt;一、 OR Knowledge Graph：重塑特徵與結果的關聯&lt;/h4&gt;
+&lt;h4 id=&#34;i-or-knowledge-graph-reconceptualizing-feature-outcome-dynamics&#34;&gt;I. OR Knowledge Graph: Reconceptualizing Feature-Outcome Dynamics&lt;/h4&gt;
+&lt;p&gt;在處理多維度數據時，傳統的單向預測模型 (X 預測 Y) 往往受限。我導入了 &lt;strong&gt;OR Knowledge Graph&lt;/strong&gt; 的概念，將影響最終目標的變數，轉化為具備「雙向推理與記憶」功能的網絡：
+Traditional unidirectional predictive models (X predicting Y) are frequently inadequate when navigating multidimensional data. By introducing the &lt;strong&gt;OR Knowledge Graph&lt;/strong&gt; framework, variables that dictate definitive outcomes are reconfigured into an interconnected network capable of bidirectional reasoning and memory retention:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Entity (實體):&lt;/strong&gt; 系統中的真實物件（如：使用者、產品、環境）。
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Entity:&lt;/strong&gt; Real-world systemic components (e.g., users, products, operative environments).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Feature (特徵):&lt;/strong&gt; 影響最終預測結果的關鍵變數（如：行為頻率、時間差、Elo 隱藏積分）。
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Feature:&lt;/strong&gt; Critical variables governing the predictive trajectory (e.g., behavioral frequency, temporal latency, hidden Elo ratings).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Outcome (結果):&lt;/strong&gt; 最終可量化或分類的輸出（如：Win/Lose、成功/失敗）。
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Outcome:&lt;/strong&gt; Quantifiable or categorical final executions (e.g., binary win/loss states, success/failure metrics).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;透過圖譜結構，我們能更清晰地定義節點（Node）間的邊界（Edge），為後續的演算法訓練打下堅實基礎。
+This structural mapping precisely delineates the boundaries (Edges) between respective parameters (Nodes), establishing a robust and scalable foundation for subsequent algorithmic training.&lt;/p&gt;
+&lt;h4 id=&#34;二-回歸系統與誤差縮小&#34;&gt;二、 回歸系統與誤差縮小&lt;/h4&gt;
+&lt;h4 id=&#34;ii-systemic-regression-and-error-reduction&#34;&gt;II. Systemic Regression and Error Reduction&lt;/h4&gt;
+&lt;p&gt;如同人類語言系統中的「聽懂」需要語法與上下文的輔助，AI 模型要精準預測，就必須依賴損失函數的優化。
+Much like human linguistic comprehension requires the scaffolding of syntax and context, an AI model&amp;rsquo;s predictive precision relies heavily on the rigorous optimization of loss functions.&lt;/p&gt;
+&lt;p&gt;在建立 Y = AX + B 的回歸系統時，我們的首要任務是**「縮小誤差」**。透過觀測系統運作中的即時數據反饋（Feedback Loop），我們能動態調整特徵權重 (A)，確保模型預測值與真實穩態的偏離度降至最低，達成系統的自我修正與平衡。
+When establishing a regression system (Y = AX + B), our primary imperative is &lt;strong&gt;&amp;ldquo;error reduction.&amp;rdquo;&lt;/strong&gt; By continuously monitoring real-time data feedback loops, we can dynamically recalibrate feature weights (A), effectively minimizing the deviation between the model&amp;rsquo;s predictive output and the true systemic steady state, thereby achieving autonomous correction and equilibrium.&lt;/p&gt;
+&lt;h4 id=&#34;三-類別資料分析六步法實務落地的標準化流程&#34;&gt;三、 類別資料分析六步法：實務落地的標準化流程&lt;/h4&gt;
+&lt;h4 id=&#34;iii-the-six-step-categorical-analysis-a-paradigm-for-practical-implementation&#34;&gt;III. The Six-Step Categorical Analysis: A Paradigm for Practical Implementation&lt;/h4&gt;
+&lt;p&gt;為了將上述的學術邏輯轉化為可執行的產品策略，我總結了**「類別資料分析六步法」**，這是一趟從原始數據到 AI 決策的賦能之旅：
+To successfully translate these theoretical constructs into actionable product strategies, I have codified the &lt;strong&gt;&amp;ldquo;Six-Step Categorical Analysis Method&amp;rdquo;&lt;/strong&gt;—a comprehensive journey transitioning from raw data acquisition to AI-empowered decision-making:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;明確問題與核心類別 (Define the Core Problem &amp;amp; Categories):&lt;/strong&gt; 釐清商業或系統的最終目標，定義需要預測或分類的目標變數 (Target Variable)。
+&lt;ul&gt;
+&lt;li&gt;Ascertain the ultimate commercial or systemic objective, precisely defining the Target Variable necessitating prediction or classification.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;拆分主表與分類附表 (Deconstruct Primary and Auxiliary Tables):&lt;/strong&gt; 運用關聯式資料庫（RDBMS）思維，將高維度數據拆解，確保資料的一致性與低冗餘。
+&lt;ul&gt;
+&lt;li&gt;Employ Relational Database Management System (RDBMS) principles to dismantle high-dimensional data, ensuring structural consistency and mitigating redundancy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;統一類別標準與清洗 (Standardize and Cleanse Categories):&lt;/strong&gt; 執行嚴格的資料清洗與正規化 (Normalization)，排除離群值與雜訊，確保送入模型的資料純度。
+&lt;ul&gt;
+&lt;li&gt;Execute rigorous data sanitization and normalization protocols to eradicate outliers and noise, assuring absolute data purity prior to model ingestion.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;構建資料庫表結構 (Architect Database Schemas):&lt;/strong&gt; 建立具備高擴展性的 Schema，確保未來特徵工程 (Feature Engineering) 的靈活度。
+&lt;ul&gt;
+&lt;li&gt;Construct highly scalable architectural schemas to facilitate agility and depth in future Feature Engineering endeavors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;生成統計分析寬表 (Generate the Analytical Wide Table):&lt;/strong&gt; 將清洗與關聯後的資料扁平化，生成包含所有特徵與結果的寬表 (Wide Table)，準備進行模型訓練。
+&lt;ul&gt;
+&lt;li&gt;Flatten correlated data constructs to synthesize a comprehensive Wide Table—encapsulating all imperative features and outcomes—primed for algorithmic training.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;對接 AI 工具進行分析 (Deploy AI for Predictive Analytics):&lt;/strong&gt; 將寬表資料餵入機器學習演算法或 AIGC 模型，進行特徵重要度排序與預測輸出，最終形成可視化的決策儀表板。
+&lt;ul&gt;
+&lt;li&gt;Feed the structured analytical table into machine learning algorithms or AIGC models to rank feature salience and output predictions, ultimately culminating in an intuitive, visual decision-making dashboard.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;cto-技術洞察-cto-insight&#34;&gt;CTO 技術洞察 (CTO Insight)&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;「在 AI 時代，演算法的優劣決定了預測的下限，但&lt;strong&gt;數據結構的質量與特徵工程的深度，決定了決策準確度的上限&lt;/strong&gt;。透過知識圖譜與六步法的結合，我們不僅是在處理數據，更是在架構未來的決策大腦。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在這個時代，你就是自己的教育部長。&lt;/strong&gt;」 —— &lt;strong&gt;徐正樺 (Sheldon Hsu)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;In the era of Artificial Intelligence, algorithms dictate the baseline of predictive capability; however, &lt;strong&gt;the structural integrity of the data and the profundity of feature engineering definitively establish the ultimate ceiling of decision-making accuracy.&lt;/strong&gt; By synthesizing Knowledge Graphs with the Six-Step Method, we transcend mere data processing—we are architecting the cognitive framework for future decision intelligence.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In this era, you are your own Minister of Education.&lt;/strong&gt;&amp;rdquo; — &lt;strong&gt;Sheldon Hsu&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

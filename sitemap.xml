@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lunacysaint.github.io/project/</loc>
+    <lastmod>2026-04-08T14:30:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/tags/ai-%E8%B3%A6%E8%83%BD/</loc>
+    <lastmod>2026-04-02T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/tags/data-science/</loc>
+    <lastmod>2026-04-02T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/event/2026_04_02_sheldon/</loc>
+    <lastmod>2026-04-02T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/tags/feature-engineering/</loc>
+    <lastmod>2026-04-02T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/tags/knowledge-graph/</loc>
+    <lastmod>2026-04-02T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/tags/ntnu/</loc>
+    <lastmod>2026-04-02T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/event/</loc>
+    <lastmod>2026-04-02T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/tags/regression-analysis/</loc>
+    <lastmod>2026-04-02T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/tags/sheldon-hsu/</loc>
+    <lastmod>2026-04-02T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/tags/</loc>
+    <lastmod>2026-04-02T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/tags/%E9%A1%9E%E5%88%A5%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90%E5%85%AD%E6%AD%A5%E6%B3%95/</loc>
+    <lastmod>2026-04-02T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://lunacysaint.github.io/tags/aerobic-exercise/</loc>
     <lastmod>2026-03-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -23,10 +71,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lunacysaint.github.io/tags/resistance-exercise/</loc>
-    <lastmod>2026-03-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lunacysaint.github.io/tags/</loc>
     <lastmod>2026-03-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -55,10 +99,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lunacysaint.github.io/tags/prisma-2020/</loc>
-    <lastmod>2026-03-23T14:20:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lunacysaint.github.io/event/</loc>
     <lastmod>2026-03-23T14:20:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -123,10 +163,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lunacysaint.github.io/event/2026_03_18_dr.robert_johhanson/</loc>
-    <lastmod>2026-03-18T10:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lunacysaint.github.io/tags/ntnu/</loc>
     <lastmod>2026-03-18T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -447,10 +483,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lunacysaint.github.io/tags/national-taiwan-normal-university/</loc>
-    <lastmod>2025-10-30T12:20:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lunacysaint.github.io/project/</loc>
     <lastmod>2025-10-30T12:20:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
