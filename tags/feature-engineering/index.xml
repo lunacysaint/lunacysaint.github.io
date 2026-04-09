@@ -44,11 +44,11 @@ Traditional unidirectional predictive models (X predicting Y) are frequently ina
 &lt;/ul&gt;
 &lt;p&gt;透過圖譜結構，我們能更清晰地定義節點（Node）間的邊界（Edge），為後續的演算法訓練打下堅實基礎。
 This structural mapping precisely delineates the boundaries (Edges) between respective parameters (Nodes), establishing a robust and scalable foundation for subsequent algorithmic training.&lt;/p&gt;
-&lt;h4 id=&#34;二-回歸系統與誤差縮小&#34;&gt;二、 回歸系統與誤差縮小&lt;/h4&gt;
+&lt;h4 id=&#34;二-迴歸系統與誤差縮小&#34;&gt;二、 迴歸系統與誤差縮小&lt;/h4&gt;
 &lt;h4 id=&#34;ii-systemic-regression-and-error-reduction&#34;&gt;II. Systemic Regression and Error Reduction&lt;/h4&gt;
 &lt;p&gt;如同人類語言系統中的「聽懂」需要語法與上下文的輔助，AI 模型要精準預測，就必須依賴損失函數的優化。
 Much like human linguistic comprehension requires the scaffolding of syntax and context, an AI model&amp;rsquo;s predictive precision relies heavily on the rigorous optimization of loss functions.&lt;/p&gt;
-&lt;p&gt;在建立 Y = AX + B 的回歸系統時，我們的首要任務是**「縮小誤差」**。透過觀測系統運作中的即時數據反饋（Feedback Loop），我們能動態調整特徵權重 (A)，確保模型預測值與真實穩態的偏離度降至最低，達成系統的自我修正與平衡。
+&lt;p&gt;在建立 Y = AX + B 的迴歸系統時，我們的首要任務是**「縮小誤差」**。透過觀測系統運作中的即時數據反饋（Feedback Loop），我們能動態調整特徵權重 (A)，確保模型預測值與真實穩態的偏離度降至最低，達成系統的自我修正與平衡。
 When establishing a regression system (Y = AX + B), our primary imperative is &lt;strong&gt;&amp;ldquo;error reduction.&amp;rdquo;&lt;/strong&gt; By continuously monitoring real-time data feedback loops, we can dynamically recalibrate feature weights (A), effectively minimizing the deviation between the model&amp;rsquo;s predictive output and the true systemic steady state, thereby achieving autonomous correction and equilibrium.&lt;/p&gt;
 &lt;h4 id=&#34;三-類別資料分析六步法實務落地的標準化流程&#34;&gt;三、 類別資料分析六步法：實務落地的標準化流程&lt;/h4&gt;
 &lt;h4 id=&#34;iii-the-six-step-categorical-analysis-a-paradigm-for-practical-implementation&#34;&gt;III. The Six-Step Categorical Analysis: A Paradigm for Practical Implementation&lt;/h4&gt;
