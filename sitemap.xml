@@ -2,6 +2,98 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lunacysaint.github.io/tags/asu/</loc>
+    <lastmod>2026-05-24T14:30:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/post/</loc>
+    <lastmod>2026-05-24T14:30:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/tags/emi/</loc>
+    <lastmod>2026-05-24T14:30:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/post/2026_05_22_fulbright-global-education-forum/</loc>
+    <lastmod>2026-05-24T14:30:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/tags/fulbright-taiwan/</loc>
+    <lastmod>2026-05-24T14:30:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/tags/global-education-forum/</loc>
+    <lastmod>2026-05-24T14:30:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/tags/ntnu/</loc>
+    <lastmod>2026-05-24T14:30:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/tags/professional-development/</loc>
+    <lastmod>2026-05-24T14:30:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/tags/</loc>
+    <lastmod>2026-05-24T14:30:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/tags/biomarkers/</loc>
+    <lastmod>2026-05-21T15:10:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/tags/categorical-data-analysis/</loc>
+    <lastmod>2026-05-21T15:10:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/event/2026_05_21_steve_cda_course_presentation/</loc>
+    <lastmod>2026-05-21T15:10:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/tags/covariates/</loc>
+    <lastmod>2026-05-21T15:10:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/tags/diagnostic-accuracy/</loc>
+    <lastmod>2026-05-21T15:10:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/tags/medical-statistics/</loc>
+    <lastmod>2026-05-21T15:10:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/event/</loc>
+    <lastmod>2026-05-21T15:10:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/tags/data-analytics/</loc>
+    <lastmod>2026-05-14T10:20:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/event/2026_05_14_dr.rob-gray/</loc>
+    <lastmod>2026-05-14T10:20:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/tags/ecological-approach/</loc>
+    <lastmod>2026-05-14T10:20:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/tags/motor-learning/</loc>
+    <lastmod>2026-05-14T10:20:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/tags/neuroscience/</loc>
+    <lastmod>2026-05-14T10:20:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/tags/skill-acquisition/</loc>
+    <lastmod>2026-05-14T10:20:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lunacysaint.github.io/tags/sports-science/</loc>
+    <lastmod>2026-05-14T10:20:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://lunacysaint.github.io/tags/coaching/</loc>
     <lastmod>2026-05-13T23:30:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -14,23 +106,11 @@
     <lastmod>2026-05-13T23:30:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lunacysaint.github.io/tags/neuroscience/</loc>
-    <lastmod>2026-05-13T23:30:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lunacysaint.github.io/event/</loc>
-    <lastmod>2026-05-13T23:30:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lunacysaint.github.io/tags/resilience/</loc>
     <lastmod>2026-05-13T23:30:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lunacysaint.github.io/tags/science-communication/</loc>
-    <lastmod>2026-05-13T23:30:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lunacysaint.github.io/tags/</loc>
     <lastmod>2026-05-13T23:30:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -50,23 +130,7 @@
     <lastmod>2026-05-13T15:12:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lunacysaint.github.io/tags/emi/</loc>
-    <lastmod>2026-05-13T15:12:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lunacysaint.github.io/tags/asu/</loc>
-    <lastmod>2026-05-08T12:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lunacysaint.github.io/tags/backward-design/</loc>
-    <lastmod>2026-05-08T12:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lunacysaint.github.io/post/</loc>
-    <lastmod>2026-05-08T12:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lunacysaint.github.io/tags/fulbright-taiwan/</loc>
     <lastmod>2026-05-08T12:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -98,10 +162,6 @@
     <lastmod>2026-05-03T12:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lunacysaint.github.io/tags/sports-science/</loc>
-    <lastmod>2026-05-03T12:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lunacysaint.github.io/event/2026_04_30_dr.-tremblay/</loc>
     <lastmod>2026-05-03T12:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -115,10 +175,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lunacysaint.github.io/tags/interdisciplinary/</loc>
-    <lastmod>2026-04-28T12:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lunacysaint.github.io/tags/ntnu/</loc>
     <lastmod>2026-04-28T12:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

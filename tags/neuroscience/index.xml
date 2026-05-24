@@ -5,12 +5,53 @@
     <link>https://lunacysaint.github.io/tags/neuroscience/</link>
       <atom:link href="https://lunacysaint.github.io/tags/neuroscience/index.xml" rel="self" type="application/rss+xml" />
     <description>Neuroscience</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 May 2026 23:30:00 +0800</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 May 2026 10:20:00 +0800</lastBuildDate>
     <image>
       <url>https://lunacysaint.github.io/media/icon_hu15511076651403545720.png</url>
       <title>Neuroscience</title>
       <link>https://lunacysaint.github.io/tags/neuroscience/</link>
     </image>
+    
+    <item>
+      <title>Data, Dirt, and Decision-Making: The Ecological Approach to Skill Acquisition / 數據、實務與決策力：動作學習的生態學途徑</title>
+      <link>https://lunacysaint.github.io/event/2026_05_14_dr.rob-gray/</link>
+      <pubDate>Thu, 14 May 2026 10:20:00 +0800</pubDate>
+      <guid>https://lunacysaint.github.io/event/2026_05_14_dr.rob-gray/</guid>
+      <description>&lt;h2 id=&#34;亞利桑那的學術回聲重逢-asu-大師-echoes-of-arizona-reconnecting-with-an-asu-master&#34;&gt;亞利桑那的學術回聲：重逢 ASU 大師 (Echoes of Arizona: Reconnecting with an ASU Master)&lt;/h2&gt;
+&lt;p&gt;Attending Professor Rob Gray’s lecture felt like a profound full-circle moment. Earlier in 2026, the pursuit of enhancing English as a Medium of Instruction (EMI) pedagogies led me to Arizona State University (ASU) for a professional training workshop. To see an esteemed ASU professor and the mind behind the &lt;em&gt;Perception &amp;amp; Action&lt;/em&gt; platform present here at NTNU was a remarkable convergence of academic milestones.&lt;/p&gt;
+&lt;p&gt;Operating at the intersection of exercise science, cognitive neuroscience, and practical coaching, I constantly seek to bridge the gap between rigorous laboratory data and real-world application. Professor Gray’s presentation on the &lt;strong&gt;Ecological Approach to Skill Acquisition&lt;/strong&gt; provided a robust framework to harmonize these domains, demonstrating how athletes adapt dynamically to their environments.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;建立反脆弱運動員打破完美重複的迷思-building-anti-fragile-athletes-breaking-the-myth-of-perfect-repetition&#34;&gt;建立「反脆弱」運動員：打破完美重複的迷思 (Building &amp;ldquo;Anti-Fragile&amp;rdquo; Athletes: Breaking the Myth of Perfect Repetition)&lt;/h2&gt;
+&lt;p&gt;Traditional sports training often relies on isolated, repetitive drills—aiming for a &amp;ldquo;perfect&amp;rdquo; biomechanical execution. However, the Ecological Approach flips this paradigm entirely.&lt;/p&gt;
+&lt;p&gt;As Professor Gray highlighted, the objective is not to program robots, but to develop &lt;strong&gt;adaptable, anti-fragile, better decision-makers&lt;/strong&gt;. From the perspective of cognitive neuroscience and research into inhibitory control, this makes complete sense. The brain requires variability and &amp;ldquo;noise&amp;rdquo; to learn how to effectively utilize executive functions. By manipulating constraints (the Constraints-Led Approach), the athlete&amp;rsquo;s nervous system is forced to self-organize and find movement solutions dynamically. True athletic mastery isn&amp;rsquo;t about repeating the same movement flawlessly; it&amp;rsquo;s about solving movement problems in ever-changing environments.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;運科專家的多元技能包從-r-語言到教練棒-the-sports-scientists-toolkit-from-rstudio-to-fungo-bats&#34;&gt;運科專家的多元技能包：從 R 語言到教練棒 (The Sports Scientist&amp;rsquo;s Toolkit: From RStudio to Fungo Bats)&lt;/h2&gt;
+&lt;p&gt;One of the most validating segments of the seminar detailed the &amp;ldquo;Diverse Skill Set&amp;rdquo; required for a modern Skill Acquisition Specialist:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Coding:&lt;/strong&gt; R, Python&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hardware:&lt;/strong&gt; Motion tracking, VR Technology&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Analysis:&lt;/strong&gt; Stats methods, Visualization&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Practical:&lt;/strong&gt; Throw BP, hit fungoes, etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;For a practitioner balancing the demands of writing statistical code in SAS and RStudio to analyze growth trajectories, alongside the physical realities of teaching exercise technique as a CSCS/ACSM-CEP coach, this slide was a revelation. Science without practical application remains isolated; practical coaching without science is merely guesswork.&lt;/p&gt;
+&lt;p&gt;To gain the respect of coaches and players in professional environments, one must speak their language. It requires the statistical rigor to validate methodologies, combined with the practical utility to implement them on the field. You have to know how to &amp;ldquo;throw BP&amp;rdquo; physically, or at the very least, understand the tactical nuances of the sport implicitly.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;比賽日進程從認知負荷到自主表現-game-day-progression-from-cognitive-load-to-autonomy&#34;&gt;比賽日進程：從認知負荷到自主表現 (Game Day Progression: From Cognitive Load to Autonomy)&lt;/h2&gt;
+&lt;p&gt;Professor Gray also introduced a highly applicable framework called the &lt;strong&gt;Game Day Progression&lt;/strong&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Train to Learn (High Constraints):&lt;/strong&gt; Early in the week, specific constraints are imposed to drive neuroplasticity and skill adaptation. Player choice is low.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Train to Perform:&lt;/strong&gt; As the game approaches, constraints are systematically removed, allowing the athlete to explore their newly self-organized movement solutions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Train to Maintain/Build Confidence (High Autonomy):&lt;/strong&gt; Immediately before the game, the environment shifts to high player choice.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This progression is fundamentally a strategy for cognitive load management. In studies examining how acute exercise impacts cognitive function, high mental strain—such as learning under strict constraints—taxes executive control. By tapering this cognitive load as competition nears, the athlete is permitted to enter a flow state, relying on implicit motor control rather than explicit over-thinking.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;結語閉環溝通與建立關係-conclusion-closing-the-loop-and-building-relationships&#34;&gt;結語：閉環溝通與建立關係 (Conclusion: Closing the Loop and Building Relationships)&lt;/h2&gt;
+&lt;p&gt;Among the &amp;ldquo;Hard Lessons&amp;rdquo; shared from professional sports, the most crucial was centered on human connection: &lt;em&gt;&amp;ldquo;Jump on any opportunities to talk and build relationships with players and coaches.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Whether analyzing the neurological impacts of blood flow restriction (BFR) or designing active learning syllabi, the ultimate impact is determined by the ability to connect with humans. There is a profound necessity to &amp;ldquo;close the loop&amp;rdquo; by translating complex data visualizations back into actionable, easily digestible insights. The Ecological Approach is not merely a motor learning theory; it is a foundational philosophy for effective science communication.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Calculus of Resilience: A Sports Scientist&#39;s Reflection on the &#39;Extreme Game&#39; / 韌性的微積分：從運動科學視角解讀「極限賽局」</title>

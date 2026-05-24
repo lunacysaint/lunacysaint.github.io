@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diagnostic Accuracy | Steve Ying-Chu Chen&#39;s CV website</title>
+    <link>https://lunacysaint.github.io/tags/diagnostic-accuracy/</link>
+      <atom:link href="https://lunacysaint.github.io/tags/diagnostic-accuracy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Diagnostic Accuracy</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 May 2026 15:10:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lunacysaint.github.io/media/icon_hu15511076651403545720.png</url>
+      <title>Diagnostic Accuracy</title>
+      <link>https://lunacysaint.github.io/tags/diagnostic-accuracy/</link>
+    </image>
+    
+    <item>
+      <title>Class Presentation: Core Concepts and Evaluation Metrics of Diagnostic Accuracy</title>
+      <link>https://lunacysaint.github.io/event/2026_05_21_steve_cda_course_presentation/</link>
+      <pubDate>Thu, 21 May 2026 15:10:00 +0000</pubDate>
+      <guid>https://lunacysaint.github.io/event/2026_05_21_steve_cda_course_presentation/</guid>
+      <description>&lt;h2 id=&#34;presentation-highlights--報告精華&#34;&gt;Presentation Highlights / 報告精華&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Introduction &amp;amp; Rationale&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In modern clinical practice, distinguishing between disease and non-disease states using biomarkers is a critical challenge. This presentation delves into a Q1 journal article (Impact Factor: 5.2) to explore how optimal decision boundaries are formed and how covariate-specific curves can improve diagnostic accuracy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Insights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Diagnostic Foundations&lt;/strong&gt;: Clearly defining the &amp;ldquo;Index Test&amp;rdquo; (the new diagnostic tool being evaluated) versus the &amp;ldquo;Reference/Gold Standard&amp;rdquo; (the absolute truth, e.g., HbA1c for Type 2 Diabetes).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Evaluation Metrics&lt;/strong&gt;: Understanding Sensitivity (True Positive Fraction) as a cornerstone metric for ensuring accurate classification and minimizing false negatives.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Covariate Challenges&lt;/strong&gt;: Addressing how population differences (covariates) impact the positive thresholds, and utilizing D-dimer for Venous Thromboembolism (VTE) as a real-world clinical application scenario.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Practical Application&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Accurately assessing these diagnostic metrics prevents unnecessary invasive procedures and optimizes clinical decision-making when evaluating new assessment tools.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;研究動機與背景&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在現代臨床實務中，利用生物標記將病患正確分類為「患病」或「未患病」是一大挑戰。本次報告深入探討一篇影響因子 5.2 的 Q1 期刊文獻，解析如何透過特定協變數曲線與指標，來容納群體間的差異並制定最佳決策邊界。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;核心發現&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;診斷準確性基礎&lt;/strong&gt;：釐清「指標測試（Index Test，即受評估的新型診斷工具）」與「參考標準（Reference Standard，即絕對真相，如檢測糖尿病的糖化血色素）」的差異。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;核心評估指標&lt;/strong&gt;：探討「敏感度（Sensitivity，真陽性率）」作為關鍵指標的數學邏輯，確保檢測能正確超過陽性閾值。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;協變數的臨床應用&lt;/strong&gt;：探討協變數干擾問題，並以 D-dimer（D-雙聚體）檢測靜脈血栓栓塞（VTE）作為實際的臨床應用案例進行分析。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;實務建議&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;精準評估檢測工具的準確度與閾值，能有效避免病患接受不必要的侵入性醫療程序，將臨床誤診的機率降到最低。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;報告紀錄與影音-presentation-recording&#34;&gt;報告紀錄與影音 (Presentation Recording)&lt;/h3&gt;
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/xOmXsOLzFUg?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;(If the video does not display properly, you can watch it directly on &lt;a href=&#34;https://www.youtube.com/watch?v=xOmXsOLzFUg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube&lt;/a&gt;.)&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;報告資訊--presentation-info&#34;&gt;報告資訊 / Presentation Info&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Presenter / 報告人&lt;/strong&gt;: Ying-Chu Chen (陳映竹), Ph.D. Candidate&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Instructor / 授課教師&lt;/strong&gt;: Lu, Tsui-Shan, Ph.D.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Course / 課程&lt;/strong&gt;: Categorical Data Analysis (類別資料分析)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Location / 地點&lt;/strong&gt;: Department of Mathematics, Gongguan Campus, NTNU (師大公館校區數學系)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lab / 實驗室&lt;/strong&gt;: Physical Activity &amp;amp; Cognitive Neuroscience Lab (PACNL), NTNU&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
